@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text="Why?")
 
 
+# 왜? 에 답할 수 있는 개발자
+
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
